@@ -41,4 +41,4 @@ Docs & guides: https://recuva-peak.softnation.xyz
 
 ## 🧾 Requirements
 - OS: Windows
-- 200 MB free disk space     
+- 200 MB free disk space      
